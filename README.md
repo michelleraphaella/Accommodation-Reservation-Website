@@ -4,5 +4,6 @@ For every reservation made, users can earn membership points that can be redeeme
 
 Designed for flexibility, the platform allows administrators to create, read, update, and delete data as needed.
 
-<a href="https://github.com/user-attachments/assets/367686f3-708f-4067-8e73-a8bbb36a9aaa"><img src="https://github.com/user-attachments/assets/367686f3-708f-4067-8e73-a8bbb36a9aaa" width=50% height=50%>Checkout Page for Users</a>
-
+<section>
+    <a href="https://github.com/user-attachments/assets/367686f3-708f-4067-8e73-a8bbb36a9aaa"><img src="https://github.com/user-attachments/assets/367686f3-708f-4067-8e73-a8bbb36a9aaa" width=49% height=49% alt="Checkout Frontend Page for Users"></a> <a href="https://github.com/user-attachments/assets/5701212c-0715-4fab-a7d4-9e10af032c59"><img src="https://github.com/user-attachments/assets/5701212c-0715-4fab-a7d4-9e10af032c59" width=46.5% height=46.5% alt="Accommodation Backend Page for Admins"></a>
+</section>
