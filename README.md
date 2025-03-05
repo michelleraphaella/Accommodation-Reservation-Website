@@ -3,3 +3,5 @@ This system provides reservation service for various accommodation types. Each a
 For every reservation made, users can earn membership points that can be redeemed for discounts on future bookings. Every product with "Deluxe", "Superior", and "Suite" types will grant the users 5 points each. On the other hand, products of other types will earn 1 point for every Rp 300.000,00 spent, with points accumulating in multiples based on the total purchase amount. The points can be redeemed in the next transaction with a minimum of Rp 100.000,00 spent before the 11% tax applied. Each point is equivalent to Rp 100.000,00. For the system to store receipts and membership points, users must be logged in to complete transactions.
 
 Designed for flexibility, the platform allows administrators to create, read, update, and delete data as needed.
+
+![image](https://github.com/user-attachments/assets/eb295810-4fb1-45b9-a683-d9bb33feb76b)
