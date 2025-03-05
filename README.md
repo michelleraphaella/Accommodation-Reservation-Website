@@ -4,4 +4,5 @@ For every reservation made, users can earn membership points that can be redeeme
 
 Designed for flexibility, the platform allows administrators to create, read, update, and delete data as needed.
 
-![image](https://github.com/user-attachments/assets/eb295810-4fb1-45b9-a683-d9bb33feb76b)
+<a href="url"><img src="https://github.com/user-attachments/assets/367686f3-708f-4067-8e73-a8bbb36a9aaa" alt="Checkout Page for Users" width=50% height=50%></a>
+
